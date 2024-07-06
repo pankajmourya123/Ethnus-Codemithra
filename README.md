@@ -23,7 +23,7 @@
 
 ## Introduction
 
-Roxiller Systems Pankaj Mourya is a web application designed to display transaction data with various visualization tools such as tables, pie charts, and bar charts. Users can filter data by month, search by title, and view detailed statistics about the transactions.
+Ethnus-Codemithra Pankaj Mourya is a web application designed to display transaction data with various visualization tools such as tables, pie charts, and bar charts. Users can filter data by month, search by title, and view detailed statistics about the transactions.
 
 ## Features
 
