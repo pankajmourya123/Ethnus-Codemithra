@@ -56,8 +56,8 @@ Roxiller Systems Pankaj Mourya is a web application designed to display transact
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/pankajmfilesourya123/RoxillerSystemsPankajMourya.git
-cd RoxillerSystemsPankajMourya
+git clone https://github.com/pankajmourya123/Ethnus-Codemithra.git
+cd Ethnus-Codemithra
 ```
 
 ### Backend Setup
@@ -128,7 +128,7 @@ cd RoxillerSystemsPankajMourya
 ## Project Structure
 
 ```plaintext
-RoxillerSystemsPankajMourya/
+Ethnus-Codemithra/
 │
 ├── backend/
 │   ├── controllers/
